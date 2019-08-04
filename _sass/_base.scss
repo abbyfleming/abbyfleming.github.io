@@ -2,37 +2,53 @@
   * Reset some basic elements
 */
 
+// Custom fonts
+@import url("https://use.typekit.net/uyf3ksf.css");
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+
 * {
- box-sizing: border-box !important;
- margin: 0; }
+  box-sizing: border-box !important;
+  margin: 0;
+}
 
 input,
 select,
 textarea,
 button {
- font-family: inherit;
- font-size: inherit;
- line-height: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
-
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin: 0;
+  padding: 0;
 }
-
 
 /**
  * Basic styling
  */
 body {
-    font-family: $body-font-family;
-    font-size: $body-font-size;
-    line-height: 1.5;
-    color: $color-body-text;
-    background-color: $color-background;
+  font-family: $body-font-family;
+  font-size: $body-font-size;
+  line-height: 1.5;
+  color: $color-body-text;
+  background-color: $color-background;
 }
 
 p {
@@ -40,17 +56,45 @@ p {
   margin-bottom: 0.5em;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 1em;
   margin-bottom: 0.25em;
+  font-family: neue-haas-grotesk-display, sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
-h1, .h1 { font-size: $h1-size; }
-h2, .h2 { font-size: $h2-size; }
-h3, .h3 { font-size: $h3-size; }
-h4, .h4 { font-size: $h4-size; }
-h5, .h5 { font-size: $h5-size; }
-h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
+h1,
+.h1 {
+  font-size: $h1-size;
+}
+h2,
+.h2 {
+  font-size: $h2-size;
+}
+h3,
+.h3 {
+  font-size: $h3-size;
+}
+h4,
+.h4 {
+  font-size: $h4-size;
+}
+h5,
+.h5 {
+  font-size: $h5-size;
+}
+h6,
+.h6 {
+  font-size: $h6-size;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
 
 a {
   color: inherit;
