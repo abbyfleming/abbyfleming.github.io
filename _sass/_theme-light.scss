@@ -1,29 +1,29 @@
 // White theme
 
 // Color variables
-$black: #2B2826;
-$gray-dark: #423F38;
-$gray: #A09992;
-$gray-light: #D7D5D1;
+$black: #2b2826;
+$gray-dark: #423f38;
+$gray: #a09992;
+$gray-light: #d7d5d1;
 $white: #fff;
-$burgundy: #B54545;
+$burgundy: #b54545;
+
+// Custom
+$primary: #b07b6f;
+$link: #9ca7ad;
+$dark: #4a4a51;
+
 // Config
 $color-background: $white !default;
 $color-foreground: $black !default;
-$color-title: $black !default;
-$color-body-text: $black !default;
+$color-title: $dark !default;
+$color-body-text: $dark !default;
 $color-text-accent: $gray-dark !default;
 $color-code: $gray-dark !default;
 $color-nav-link: $black !default;
-$color-primary-link: $black !default;
+$color-primary-link: $link !default;
 $color-primary-underline: $gray !default;
-$color-border: $gray-light !default;
-
+$color-border: #f0e2df !default;
 
 // Import sass partials (used in all themes)
-@import
-        "variables",
-        "base",
-        "components",
-        "utilities"
-;
+@import "variables", "base", "components", "utilities";

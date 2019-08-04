@@ -4,42 +4,30 @@ title: About
 permalink: /about/
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Hello! I'm Abby. I reclaimed my weekends after photographing weddings for 8 years in the mountains of North Carolina. In 2016, I spent six months at [Nashville Software School](http://nashvillesoftwareschool.com/) in Cohort 16 learning JavaScript, AngularJS, Python, and Django.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Photographing well over a hundred weddings, I've learned a few things along the way: 
+* There is beauty in the tiny details
+* The story must naturally unfold
+* but schedules and clear communication are key
+* Pivot, and pivot fast!
 
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
+I bring the same passion and mindset to work. For me, coding is a craft and I strive to bring clarity and detail to my code. I advocate lovingly and relentlessly for end users and fully agree with [The Zen of Python](https://zen-of-python.info/).
 
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
+###### The best work days...
+Are spent working closely with project managers, UI/UX developers, and walking through the data with teammates. Creating reusable components is my jam and I love getting my hands on new designs.
 
+###### I frequently work with:
+* JavaScript, TypeScript, Angular 6+, Ionic 3 & 4, Vue
+* HTML, CSS, Sass, Sass Architecture 
+* Bootstrap 3 & 4, Bulma, Custom theming
+* PHP, Laravel, MySQL
 
-## Installation
+###### ...and a little less often:
+* Python, Django, Locust (Load testing)
+* Exposure to C#, .NET, MVC
 
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+### Elsewhere
+* Musings on code and mental health on [Twitter](https://www.twitter.com/abbyleighanneco) 
+* Current project list on [LinkedIn](https://www.linkedin.com/in/abbyfleming/)
+* Older projects on [Github](https://www.github.com/abbyfleming)
