@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! I'm Abby. I reclaimed my weekends after photographing weddings for 8 years in the mountains of North Carolina. In 2016, I spent six months at [Nashville Software School](http://nashvillesoftwareschool.com/) in Cohort 16 learning JavaScript, AngularJS, Python, and Django.
 
-Photographing well over a hundred weddings, I've learned a few things along the way: 
+Photographing well over a hundred weddings, I learned a few things along the way: 
 * There is beauty in the tiny details
 * The story must naturally unfold
 * but schedules and clear communication are key
