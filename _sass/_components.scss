@@ -2,23 +2,23 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
-    margin: $spacer-3 0;
-    padding-left: 16px;
-    width: (9 / 12 * 100%); // matches col-9
-    overflow-x: auto;
+  border-left: $spacer-1 solid $color-border;
+  margin: $spacer-3 0;
+  padding-left: 16px;
+  width: (9 / 12 * 100%); // matches col-9
+  overflow-x: auto;
 }
 
 code {
-    color: $color-code;
-    font-size: $body-font-size;
-    padding: 1px 4px;
+  color: $color-code;
+  font-size: $body-font-size;
+  padding: 1px 4px;
 }
 
-
 .prose {
-
-  p, ol, ul {
+  p,
+  ol,
+  ul {
     font-size: $prose-font-size;
     margin-bottom: 1em;
     width: 100%;
@@ -26,29 +26,28 @@ code {
     // @media (min-width: $breakpoint-lg) {
     //   width: (10 / 12 * 100%); // matches col-10
     // }
-
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: 40px;
   }
 
   li {
     margin-bottom: 0.5em;
 
-    ul li, ol li {
+    ul li,
+    ol li {
       margin-bottom: 0;
     }
   }
 
   img {
-
     max-width: 100%;
 
     // @media (min-width: $breakpoint-lg) {
     //   max-width: (12 / 10 * 100%); // make image fill width of container on desktop
     // }
-
   }
 
   blockquote {
@@ -70,9 +69,7 @@ code {
       p {
         font-size: 18px;
       }
-
     }
-
   }
 
   hr {
@@ -126,5 +123,14 @@ code {
       border-bottom: 2px solid $color-body-text;
     }
   }
+}
 
+.post-content {
+  h3 {
+    font-size: 16px;
+    background: #f0e2df;
+    padding: 0.25rem 0.5rem 0.25rem;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
 }
