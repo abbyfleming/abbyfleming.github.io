@@ -15,7 +15,7 @@ Photographing well over a hundred weddings, I learned a few things along the way
 I bring the same passion and mindset to work. For me, coding is a craft and I strive to bring clarity and detail to my code. I advocate lovingly and relentlessly for end users.
 
 ### The best work days...
-Are spent working closely with project managers, UI/UX developers, and walking through the data with teammates. Creating reusable components is my jam and I love getting my hands on new designs.
+Are spent working closely with project managers, UI/UX designers, and walking through the data with teammates. Creating reusable components is my jam and I love getting my hands on new designs.
 
 ### I frequently work with:
 * JavaScript, TypeScript, Angular 6+, Ionic 3 & 4, Vue
