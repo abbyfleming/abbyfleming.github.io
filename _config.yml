@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Abby Fleming
+title: Abby Autry
 description: Front-end developer who believes in coding with compassion and strives to create a nurturing environment.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 currently: React, Ruby on Rails, Design Systems
