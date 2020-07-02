@@ -5,13 +5,13 @@ pre {
   border-left: $spacer-1 solid $color-border;
   margin: $spacer-3 0;
   padding-left: 16px;
-  width: (9 / 12 * 100%); // matches col-9
-  overflow-x: auto;
+  // width: (9 / 12 * 100%); // matches col-9
+  // overflow-x: auto;
 }
 
 code {
   color: $color-code;
-  font-size: $body-font-size;
+  font-size: 0.9rem;
   padding: 1px 4px;
 }
 
@@ -82,12 +82,12 @@ code {
 
   dt {
     font-weight: bold;
-    font-style: italic;
+    // font-style: italic;
     line-height: 1.25;
   }
 
   dd {
-    font-style: italic;
+    // font-style: italic;
     margin-bottom: 0.5em;
   }
 
