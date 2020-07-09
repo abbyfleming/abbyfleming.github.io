@@ -54,4 +54,4 @@ playMathGame(10, 5, divide); // 2
 
 ### Learn more
 
-- https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056
+- [A Dirt Simple Introduction to Higher Order Functions in Javascript](https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056)
