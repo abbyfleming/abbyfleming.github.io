@@ -10,57 +10,58 @@ When in doubt (or if you go blank) it's okay to ask:
 
 ### How does the team celebrate success?
 
-It's easy to keep pushing forward towards the next ticket or project without pausing to reflect. Without acknowledgment of the team's work or success, you may start to feel burn out. Pausing to celebrate isn't the same as a retrospectives, it's truly a time to celebrate. It doesn't have to be a fancy ordeal. Good job, well done. We did it. We made it.
+It's easy to keep pushing forward towards the next ticket or project without pausing to reflect. Without acknowledgment of the team's work or success, you may start to feel burn out. Pausing to celebrate isn't the same as a retrospective, it's truly a time to celebrate. 🎉🎉 It doesn't have to be a fancy ordeal. Good job, well done. We did it. We made it.
 
 Related questions:
 * How do you define success?
 * What does the team do for fun?
 * Does the team have a favorite go-to restaurant?
 
-### Can you tell about work/life balance?
+### What can you tell me about work/life balance?
 
-As a developer, we're story tellers and problem solvers. It's easy to bring our work home... whether that's reaching for the laptop after hours or sending just one more message late at night. Embrace boundaries. Time at home is time for family/friends, hobbies, and living outside of work. 
+As developers, we're story tellers and problem solvers. It's easy to bring our work home... whether that's reaching for the laptop after hours or sending just one more message late at night. Embrace boundaries. Time at home is time for family/friends, hobbies, and *living* outside of work. 
 
 Related questions:
-* Other than critical problems, do you send emails late at night?
+* Other than critical production issues, do you send emails late at night?
 * What's the expectation for communication outside of work hours?
 * Is there an on-call schedule?
 * What do you like to do on the weekends?
 
 ### Halp! When I’m given a task that’s “new territory” and I have a lot of “I don’t know yet” answers, how do you respond?
 
-A African problem sums it up well, "If you want to go fast, go alone. If you want to go far, go together." You're looking for a graceful answer.
+An African problem sums it up well, "If you want to go fast, go alone. If you want to go far, go together." You're looking for a graceful answer.
 
 Related questions:
 * Who would I go to for questions?
 * Is there a dedicated time for pairing /office hours / slack channel?
 * Will you describe the pair programming process?
 * How often do you pair program?
+* How do you describe quality pair programming?
 * What resources (books, subscriptions, learning allowance) are available?
 
 ### How does the team stay in the loop for current work?
 
-Whether it's daily standup or chatting in a slack channel, the team should know what they're working on and what's next. Sometimes priorities shift quickly and that's okay. There should be a go to place for communication. 
+Whether it's daily standup or chatting in a slack channel, the team should know what they're working on and what's next. Sometimes priorities shift quickly and that's okay. There should be a go to place for communication. (Example: dedicated slack channel or email distribution list.)
 
 Related questions:
-* Is there a project manager / scrum master / kanban coach?
+* Is there a project manager and/or scrum master?
 
 ### Can you give me a quick walk-through of a ticket from creation to completion?
 
-This is all about the process. Tickets should be thoughtfully created with enough information before you begin the work. The ticket should be clear and have "success criteria" or "[definition of done](https://www.agilealliance.org/glossary/definition-of-done/)" otherwise your small ticket may turn into an [epic](https://www.atlassian.com/agile/project-management/epics). 
+This is all about the process. Tickets should be thoughtfully created with enough information before you begin the work. The ticket should be clear and have "success criteria" or a "[definition of done](https://www.agilealliance.org/glossary/definition-of-done/)" otherwise your small ticket may turn into an [epic](https://www.atlassian.com/agile/project-management/epics). 
 
-After the work has been merged, then it may go through a PR pipeline to run tests, Quality Assurance (QA), and then to production. This is a chance to see if a company implements Continuous integration (CI) and continuous delivery (CD) commonly referred to as [CI/CD](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html).
+After the work has been merged, it may go through a PR pipeline to run tests, tested by Quality Assurance (QA), and then pushed to production. This is a chance to see if a company implements Continuous integration (CI) and continuous delivery (CD) commonly referred to as [CI/CD](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html). Some companies may do scheduled released based on sprints. Asking will help you know if Thursdays are stressful.
 
 Related questions:
 * Who creates the tickets? (project manager, request manager, product owner)
-* Who decides the due date on a ticket?
+* Who decides the due date on a ticket? (the team should decide this)
 * What is the work rhythm? (sprints, commitments, etc.)
 * How often is work pushed to production?
 * Is there a QA team?
 
 ### Will you describe the Pull Request (PR) process?
 
-Instant approvals are quite scary! Intentionally small PRs shouldn't take long to review, so it should be a red flag if things are merged in without a review. Eek!
+Instant approvals are quite scary! Intentional small PRs shouldn't take long to review, so it should be a red flag if things are merged in without a review. Eek! Comments on a PR can have negative associations, but you're looking for kind and thoughtful communication.
 
 Related questions:
 * How many people need to approve a PR before merging?
@@ -70,11 +71,12 @@ Related questions:
 
 ### What does “moving up” look like? Is there a plan in place to help developers grow?
 
-Listen closely for red flags. This a bit of a trick question. 😬 There are some fabulous senior engineers that are also great leaders, but keep in mind that leadership & development skills are *completely different*. If you're interested in leadership, be sure to specifically ask about growing as a leader as well. 
+Listen closely for red flags. This a bit of a trick question. 😬 There are some amazing senior engineers that are also great leaders, but keep in mind that leadership & development skills are *completely different*. Having "senior" in the title doesn't automatically make you a great leader. (Ouch) If you're interested in leadership, be sure to specifically ask about personal and leadership development.
 
 Related questions:
 * What would it look like to move from a junior position to mid-level position?
 * How often will I receive feedback or reviews?
+* Are there [1:1s](https://wavelength.asana.com/workstyle-what-is-a-1-1/)? How often are they? (If the answer is rarely, run quickly! 🚩)
 
 ### All teams experience conflict. It can be healthy or unhealthy. Can you talk about how the team handles conflict?
 
