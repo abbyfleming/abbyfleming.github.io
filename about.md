@@ -19,25 +19,20 @@ I bring the same passion and mindset to work. For me, coding is a craft and I st
 
 Are spent working closely with project managers, UI/UX designers, and walking through the data with teammates. Creating reusable components is my jam and I love getting my hands on new designs.
 
-### Currently working with:
-
-- React
-- Ruby on Rails
-
 ### I've worked with:
 
-- JavaScript, TypeScript, Angular 6+, Ionic 3 & 4, Vue
+- JavaScript, TypeScript, AngularJS, Angular 2+, Ionic 3 & 4
+- Ruby, Rails
 - HTML, CSS, Sass, Sass Architecture
 - Bootstrap 3 & 4, Bulma, Custom theming
-- PHP, Laravel, MySQL
 
 ### ...and a little less often:
 
+- Vue, React
 - Python, Django, Locust (Load testing)
+- PHP, Laravel, MySQL
 - Exposure to C#, .NET, MVC
 
 ## Elsewhere
-
-- Musings on code and mental health on [Twitter](https://www.twitter.com/abbyleighanneco)
 - Current project list on [LinkedIn](https://www.linkedin.com/in/abbyfleming/)
 - Older projects on [Github](https://www.github.com/abbyfleming)
