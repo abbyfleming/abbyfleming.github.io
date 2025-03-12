@@ -16,16 +16,11 @@
 title: Abby Autry
 description: Front-end developer who believes in coding with compassion and strives to create a nurturing environment.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-currently: Angular, Ionic, Technical Discovery, Team Lead
-previously: Ruby on Rails, Reusable components, CSS (Sass), Theming
+currently: React Native, Storybook, Custom theming
+previously: Team Lead, Angular, Ionic
 url: "https://www.abbywritescode.com" # the base hostname & protocol for your site
 github_repo: "" # the GitHub repo name for your project
 github_username: abbyfleming
-
-# Optional social link, you can choose from the following options:
-# twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: abbyleighanneco
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
