@@ -21,6 +21,12 @@ Some books are in progress (📖).
 If you have read one of these, I'd love to hear your thoughts.
 
 
+### Currently Reading 📖
+
+- [Lean In: Women, Work, and the Will to Lead](https://www.amazon.com/Lean-Women-Work-Will-Lead/dp/0385349947)
+- [No Hard Feelings: The Secret Power of Embracing Emotions at Work](https://www.amazon.com/dp/0525533834/)
+
+
 ### Business / Leadership
 
 - [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/dp/0399592520)  👍
@@ -31,12 +37,14 @@ If you have read one of these, I'd love to hear your thoughts.
 - [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.com/dp/1422188612) 👎
 - [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/dp/B000079XXR) 👎
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595)
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) 👍
 
 Quick thoughts:
 
 - Dare to Lead & Extreme Ownership pair well together. Similar concepts with different perspectives.
 - I've tried to read The First 90 Days twice. I haven't made it past 20% either time.
 - Five Dysfunctions is a quick read. However, I would _not_ recommend telling other people how they are dysfunctional unless you've built trust and it's a safe space. I talked about this book in therapy for weeks.
+- If you're interested in team leading, I highly recommend The Making of a Manager. It's approachable and helps you set others up for success.
 
 ### Habits / Growth
 
@@ -44,6 +52,7 @@ Quick thoughts:
 - [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) 👎
 - [Overcoming The Impostor: Silence Your Inner Critic and Lead With Confidence](https://www.amazon.com/Overcoming-Impostor-Silence-Critic-Confidence-ebook/dp/B08S77FDPD/)
 - [Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X)
+- [StrengthsFinder 2.0](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
 
 Quick Thoughts:
 
@@ -66,11 +75,10 @@ Quick Thoughts:
 - Transparently, I haven't finished Design Patterns or Clean Code. I had mixed feelings about Clean Code, so it gets a 👎 until/if I finish.
 - You Don't Know JS made me question everything I know about JS. Proceed with caution.
 
-### Miscellaneous
+### Mental Health
 
 - [A Woman's Self-Esteem: Struggles and Triumphs in the Search for Identity](https://www.amazon.com/Womans-Self-Esteem-Struggles-Triumphs-Identity/dp/111859455X)
 - [Codependent No More: How to Stop Controlling Others and Start Caring for Yourself](https://www.amazon.com/Codependent-No-More-Controlling-Yourself/dp/0894864025)
-- [StrengthsFinder 2.0](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X)
 - [The Road Back to You: An Enneagram Journey to Self-Discovery](https://www.amazon.com/Road-Back-You-Enneagram-Self-Discovery-ebook/dp/B01CNZG896)
 
 Recommended by my therapist, these have helped me feel more at peace with myself.
@@ -89,10 +97,7 @@ These are on my radar. 😬
 - The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery
 - Writing for Busy Readers: Communicate More Effectively in the Real World
 - Smart Brevity: The Power of Saying More with Less
-- The Making of a Manager: What to Do When Everyone Looks to You
 - Quiet: The Power of Introverts in a World That Can't Stop Talking
-- Lean In: Women, Work, and the Will to Lead
 - The No Club: Putting a Stop to Women's Dead-End Work
-- No Hard Feelings: The Secret Power of Embracing Emotions at Work
 - Burnout: The Secret to Unlocking the Stress Cycle
 
